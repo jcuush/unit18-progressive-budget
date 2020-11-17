@@ -1,1 +1,3 @@
 # unit18-progressive-budget
+
+The purpose of this assignment was to tack expenses and deposits for a user and for them to be able to do so with or without internet connection.  This project was largely taken verbatim from the unit 17 activity 26 of this course however we had to implement the service worker, update servers, connect our heroku to our MongoDB and be able to deploy it from that app.  I found that this activity was largely helpful with implementing offline applications.
